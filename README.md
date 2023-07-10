@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mhboolor&" alt="mhboolor" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mhboolor&show_icons=true&locale=en" alt="mhboolor" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mhboolor&show_icons=true&locale=en" alt="mhboolor" /></p>
 
 
 
