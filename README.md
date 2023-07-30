@@ -27,12 +27,14 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mh-bolori) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19960121/bolori) 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mhboolor&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mhboolor&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhboolor&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+**Skill & Tools**
+  <p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,bootstrap,firebase" />
+  <img src="https://skillicons.dev/icons?i=redux,sass,vite,tailwind,git,github" />
+  </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Mhboolor&icon=5&color=0)](https://visitcount.itsvg.in)
+  ## 📫 GitHub Stats
+| General         | Most Used Languages |
+|--------------|:-----:|
+| <a href="https://github.com/Mhboolor/Mhboolor"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mhboolor&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Mhboolor's github stats" /></a>  |   <a href="https://github.com/Mhboolor/Mhboolor"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhboolor&langs_count=5" /></a> |        
+
