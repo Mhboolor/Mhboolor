@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on Front-end Projects<br>
 🌱 I’m currently learning Next js & Front-end Skills<br>
 💬 Ask me about working on open source projects<br>
-📫 Contact me on <a href="www.linkedin.com/in/mh-bolori" title="Linkedin">Linkedin</a>
+📫 Contact me on mohammadhosein.boolori@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mh-bolori) 
