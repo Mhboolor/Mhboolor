@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=590&height=60&lines=Welcome+To+MohammadHosein+Bolori's+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2ED1BB&width=590&height=60&lines=Welcome+To+MohammadHosein+Bolori's+GitHub+Profile)](https://git.io/typing-svg)
 
 <!--
 **mhboolor/mhboolor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
