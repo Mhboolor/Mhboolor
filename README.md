@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 About Me:
-🔭 I'm currently working on React projects<br>
+🔭 I'm currently working on React js & Next js projects<br>
 👯 I’m looking to collaborate on Front-end Projects<br>
-🌱 I’m currently learning Next js & Front-end Skills<br>
 💬 Ask me about working on open source projects<br>
 📫 Contact me on mohammadhosein.boolori@gmail.com<br>
 
